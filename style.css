@@ -1,0 +1,31 @@
+body {
+  background-color: #e9f6ff;
+}
+
+h1 {
+  font-size: 90px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  color: #6a84bd;
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  margin: 40px 150px 50px 270px;
+  color: #6a84bd;
+}
+
+img {
+  margin: 10px 150px 50px 150px;
+  width: 280px;
+  height: auto;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  margin-bottom: 50px;
+}
